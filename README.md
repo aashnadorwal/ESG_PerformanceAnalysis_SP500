@@ -11,3 +11,7 @@ This project analyzes ESG (Environmental, Social, Governance) risks in S&P 500 c
 - `CSVs/`: This folder contains datasets used.
 - `Jupyter Notebooks/`: This folder contains exploratory work, including web scraping scripts and data cleaning processes.
 - `data_dictionary.md`: This explains variables used in the project.
+
+
+### S&P 500 Component Year to Date Returns Webscrape Link:
+https://www.slickcharts.com/sp500/performance
